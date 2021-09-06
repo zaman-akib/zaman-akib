@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Akib Uz Zaman
+- 👀 I’m interested in Application Development
+- 🌱 I’m currently learning ReactJS & NextJS
+- 💞️ I’m looking to collaborate on different projects
+- 📫 Reach me through akib.zaman.04@gmail.com
