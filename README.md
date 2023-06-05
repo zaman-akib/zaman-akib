@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akib Uz Zaman
 - 👀 I’m a Software Development Engineer
-- 🌱 My professional skills are `ReactJS`, `NextJS`, `Spring Boot` & `Thymeleaf`
+- 🌱 My professional skills are `Java`, `Spring Boot`, `Microservices`, `ReactJS`, `Docker`, `Thymeleaf` & `PostgreSQL`
 - 💞️ I’m looking to collaborate on different projects
 - 📫 Reach me through `akib.zaman.04@gmail.com`
