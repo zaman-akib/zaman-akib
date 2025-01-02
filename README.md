@@ -11,16 +11,17 @@
 
 **Looking to Collaborate On**: Exciting projects in software development, microservices architecture, plugin development and cloud solutions.
 
-**Contact Me**: [akib.mist@gmail.com](mailto:akib.mist@gmail.com)
-
 ---
 
-## My GitHub Stats
+## My GitHub Insights
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zaman-akib&show_icons=true&theme=radical&show=reviews&include_all_commits=true" alt="readme-stats"/>
 
 ---
+## 🌍 Get in Touch
 
+**Email**: [akib.mist@gmail.com](mailto:akib.mist@gmail.com)  
+**LinkedIn**: [Akib Uz Zaman](https://www.linkedin.com/in/akib-uz-zaman-a019351b2/)  
 Feel free to explore my repositories, and let’s build something amazing together! 🚀
 
 
