@@ -1,15 +1,30 @@
-# Hi, I’m Akib Uz Zaman! 👋
+## 👋 Hi, I'm **Akib Uz Zaman**
 
-## About Me
-**Software Development Engineer**, passionate about creating scalable and efficient software solutions. With experience in various cutting-edge technologies, I thrive in building robust applications that make a difference.
+I'm a **Software Engineer** with nearly **5 years of experience** building scalable, secure, and maintainable backend systems.
+I specialize in  **Node.js (NestJS)** and **Java (Spring Boot)**, designing robust **microservices** and integrating them seamlessly into distributed architectures.
 
-**Professional Skills**:
-- **Languages & Frameworks**: Java, Spring Boot, JavaScript, TypeScript, React, Thymeleaf
-- **Architectures & Methodologies**: Microservices, CI/CD pipelines
-- **Tools & Platforms**: Docker, Jenkins, Azure DevOps, GitHub Actions
-- **Databases**: PostgreSQL, MySQL, Oracle
+### 💡 What I Do
 
-**Looking to Collaborate On**: Exciting projects in software development, microservices architecture, plugin development and cloud solutions.
+* **Design & develop** backend services with clear domain boundaries ensuring performance and scalability.
+* **Collaborate cross-functionally** to deliver impactful features from design to production.
+* **Implement CI/CD pipelines** and automate build, test, and deploy workflows for reliability.
+* **Integrate developer tools & plugins** across GitHub, Jenkins, ADO, and GitLab ecosystems.
+* **Mentor and review** peers, ensuring quality and consistency across systems.
+* **Learn** new technologies.
+
+###  🛠️ Skills
+
+`Node.js` | `TypeScript` | `Java` | `Spring Boot` | `Microservices` | `React` | `Tailwind CSS` | `PostgreSQL` | `Redis` | `Kafka` | `AWS` | `Docker` | `CI/CD` | `Kubernetes` | `GitHub Actions` | `Jenkins` | `System Design` | `Distributed System` | `IaC` | `Monitoring Tools` | `AI Agent`
+
+### 🌱 What Drives Me
+
+I’m passionate about **clean architecture**, **performance optimization**, and **building systems that scale gracefully**.
+Currently exploring **distributed systems design** and **developer platform engineering**.
+
+### 📫 Let's Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/akibuz04)
+* 🧑‍💻 [GitHub](https://github.com/zaman-akib)
 
 ---
 
@@ -17,11 +32,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zaman-akib&show_icons=true&theme=radical&show=reviews&include_all_commits=true" alt="readme-stats"/>
 
----
-## 🌍 Get in Touch
-
-**Email**: [akib.mist@gmail.com](mailto:akib.mist@gmail.com)  
-**LinkedIn**: [Akib Uz Zaman](https://www.linkedin.com/in/akib-uz-zaman-a019351b2/)  
+--- 
 Feel free to explore my repositories, and let’s build something amazing together! 🚀
 
 
