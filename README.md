@@ -30,7 +30,7 @@ Currently exploring **distributed systems design** and **developer platform engi
 
 ## My GitHub Insights
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zaman-akib&show_icons=true&theme=radical&show=reviews&include_all_commits=true" alt="readme-stats"/>
+<p align="center"> <img src="https://gh-stats-gen.vercel.app/api?username=zaman-akib&show_icons=true&theme=radical&show=reviews&include_all_commits=true" alt="readme-stats"/>
 
 --- 
 Feel free to explore my repositories, and let’s build something amazing together! 🚀
