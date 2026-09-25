@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm **Akib Uz Zaman**
 
-I'm a **Software Engineer** with **5 years of experience** building scalable, secure, and maintainable backend systems.
+I'm a **Software Engineer** with **5+ years of experience** building scalable, secure, and maintainable systems.
 I specialize in  **Node.js (NestJS)** and **Java (Spring Boot)**, designing robust **microservices** and integrating them seamlessly into distributed architectures.
 
 ### 💡 What I Do
